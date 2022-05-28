@@ -8,5 +8,7 @@ matplotlib
 labelme2coco
 pycocotools
 pandas
+torch
+torchvision
 streamlit
 pixellib
